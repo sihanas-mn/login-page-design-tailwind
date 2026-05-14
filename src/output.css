@@ -355,7 +355,7 @@
     background-image: linear-gradient(var(--tw-gradient-stops));
   }
   .bg-\[url\(\'\/src\/assets\/360_F_312981199_RQpwNA0qeS2LV5cYNfLUVJibXMQ9wWbD\.jpg\'\)\] {
-    background-image: url('/src/assets/360_F_312981199_RQpwNA0qeS2LV5cYNfLUVJibXMQ9wWbD.jpg');
+    background-image: url('./assets/360_F_312981199_RQpwNA0qeS2LV5cYNfLUVJibXMQ9wWbD.jpg');
   }
   .bg-\[url\(\'src\/assets\/360_F_312981199_RQpwNA0qeS2LV5cYNfLUVJibXMQ9wWbD\.jpg\'\)\] {
     background-image: url('src/assets/360_F_312981199_RQpwNA0qeS2LV5cYNfLUVJibXMQ9wWbD.jpg');
